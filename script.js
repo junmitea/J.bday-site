@@ -22,13 +22,13 @@ document.addEventListener('DOMContentLoaded', () => {
     const galleryArrows = document.querySelectorAll('#galleryPopup .arrow');
 
     const images = [
-        '/img/screenshots/gallery1.png',
-        '/img/screenshots/gallery2.png',
-        '/img/screenshots/gallery4.png',
-        '/img/screenshots/gallery5.png',
-        '/img/screenshots/gallery6.png',
-        '/img/screenshots/gallery7.png',
-        '/img/screenshots/gallery8.png',
+        'img/screenshots/gallery1.png',
+        'img/screenshots/gallery2.png',
+        'img/screenshots/gallery4.png',
+        'img/screenshots/gallery5.png',
+        'img/screenshots/gallery6.png',
+        'img/screenshots/gallery7.png',
+        'img/screenshots/gallery8.png',
     ];
 
     let currentImageIndex = 0;
