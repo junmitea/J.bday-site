@@ -38,11 +38,11 @@ document.addEventListener('DOMContentLoaded', () => {
     const drawingArrows = document.querySelectorAll('#drawingsPopup .arrow');
 
     const drawings = [
-        '/img/drawings/main drawing.jpg',
-        '/img/drawings/second draw.jpg',
-        '/img/drawings/Third.jpg',
-        '/img/drawings/MLP JAY LOL.jpg',
-        '/img/drawings/last draw.jpg'
+        'img/drawings/main drawing.jpg',
+        'img/drawings/second draw.jpg',
+        'img/drawings/Third.jpg',
+        'img/drawings/MLP JAY LOL.jpg',
+        'img/drawings/last draw.jpg'
     ];
 
     let currentDrawingIndex = 0;
